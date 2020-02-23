@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "128401881974",
+    "firebase_url": "https://barlarlar-8860e.firebaseio.com",
+    "project_id": "barlarlar-8860e",
+    "storage_bucket": "barlarlar-8860e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128401881974:android:533067a64b1e944c3e9857",
+        "android_client_info": {
+          "package_name": "com.example.barlarlar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128401881974-r3nr6amdd13dre579vl0afk300vlumsd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.barlarlar",
+            "certificate_hash": "e12b6d6f1f9c9eae28cd5375021344eac482dadc"
+          }
+        },
+        {
+          "client_id": "128401881974-7pe3l699aafmpb5oco0on1p970c3q3ka.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALRs-KnfhpvjEElsOp_gMNwRvk2Dw5LHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128401881974-7pe3l699aafmpb5oco0on1p970c3q3ka.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
